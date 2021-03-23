@@ -53,7 +53,7 @@ export default class Todo extends Component {
         return (
             <>
                 <div className="card my-3">
-                    <div className="card-header">To-Do List</div>
+                    <div className="card-header">To-Do List version 1.1</div>
                     <div className="card-body">
                         <form onSubmit={this.onSubmit}>
     
