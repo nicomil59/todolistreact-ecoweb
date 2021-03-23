@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/https//nicomil59.github.io/todolistreact-ecoweb/static/js/main.bcec88f9.chunk.js",
+    "main.js.map": "/https//nicomil59.github.io/todolistreact-ecoweb/static/js/main.bcec88f9.chunk.js.map",
+    "runtime-main.js": "/https//nicomil59.github.io/todolistreact-ecoweb/static/js/runtime-main.5bb5d32f.js",
+    "runtime-main.js.map": "/https//nicomil59.github.io/todolistreact-ecoweb/static/js/runtime-main.5bb5d32f.js.map",
+    "static/css/2.658248ec.chunk.css": "/https//nicomil59.github.io/todolistreact-ecoweb/static/css/2.658248ec.chunk.css",
+    "static/js/2.c4235347.chunk.js": "/https//nicomil59.github.io/todolistreact-ecoweb/static/js/2.c4235347.chunk.js",
+    "static/js/2.c4235347.chunk.js.map": "/https//nicomil59.github.io/todolistreact-ecoweb/static/js/2.c4235347.chunk.js.map",
+    "static/js/3.3c777ecc.chunk.js": "/https//nicomil59.github.io/todolistreact-ecoweb/static/js/3.3c777ecc.chunk.js",
+    "static/js/3.3c777ecc.chunk.js.map": "/https//nicomil59.github.io/todolistreact-ecoweb/static/js/3.3c777ecc.chunk.js.map",
+    "index.html": "/https//nicomil59.github.io/todolistreact-ecoweb/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/https//nicomil59.github.io/todolistreact-ecoweb/static/css/2.658248ec.chunk.css.map",
+    "static/js/2.c4235347.chunk.js.LICENSE.txt": "/https//nicomil59.github.io/todolistreact-ecoweb/static/js/2.c4235347.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb5d32f.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.c4235347.chunk.js",
+    "static/js/main.bcec88f9.chunk.js"
+  ]
+}
